@@ -4,7 +4,7 @@
 
 This project is a daily scheduler designed to help users organize their daily tasks and manage their time efficiently. It is currently under construction, and new features and improvements will be added as I increase in  skill level.
 
-![Screenshot of webpage](./assets/Screenshot.png)
+![Screenshot of webpage](Assets/Screenshot.png)
 
 ## Project Status
 
