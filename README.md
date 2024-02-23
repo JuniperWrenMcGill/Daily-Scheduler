@@ -4,7 +4,7 @@
 
 This project is a daily scheduler designed to help users organize their daily tasks and manage their time efficiently.
 
-![Screenshot of webpage](Assets/images/Finished.png)
+![Screenshot of webpage](assets/images/Finished.png)
 
 ## Features
 
